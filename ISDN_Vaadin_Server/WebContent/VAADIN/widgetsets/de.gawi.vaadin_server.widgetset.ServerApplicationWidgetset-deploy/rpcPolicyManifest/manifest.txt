@@ -1,0 +1,2 @@
+# Module de.gawi.vaadin_server.widgetset.ServerApplicationWidgetset
+# RPC service class, partial path of RPC policy file
