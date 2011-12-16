@@ -72,7 +72,7 @@ public class ServerApplication extends Application
 	public void inject()
 	{
 		System.out.println("INJECTION");
-		this.mainWindow.executeJavaScript("alert('injection')");
+//		this.mainWindow.executeJavaScript("alert('injection')");
 		mainWindow.executeJavaScript("printer.text('Message from Vaadin to QWebView');");
 		
 		pusher.push();
